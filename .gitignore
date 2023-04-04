@@ -1,2 +1,4 @@
 # data/
-data/charts.csv
+datasets/charts.csv
+.DS_store
+*/**.copy.pdf
